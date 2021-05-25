@@ -1,0 +1,71 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+body{ 
+    font-family: 'Cabin', sans-serif;
+    background-color:#4343aa;
+
+}
+h2{
+    padding-bottom:4px;
+}
+h1#nome{
+   font-size: 4em;
+   font-family: 'Shadows Into Light', cursive, sans-serif;
+   margin-top: 1px;
+   }
+
+main{
+    text-align: center;
+    background-color:white;
+    padding: 10px;
+    height: 720px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 40px;
+    padding-top: 50px;
+    border-radius: 75px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.514);
+}
+div{
+    
+    border-radius: 8px;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.733);
+    padding: 15px;
+    width: 100px;
+    height: 50px;
+    color: #000000;
+    display:inline-block;
+    background-color: rgb(255, 255, 255);
+
+}
+div.social{ 
+    font-family: 'Chelsea Market', cursive;
+    margin-right: 45px;
+    font-weight: bolder;
+ } 
+ div.projetos{ 
+    font-family: 'Chelsea Market', cursive;
+    margin-right: 45px;
+    font-weight: bolder;
+ }
+
+div:hover.social{
+    background-color:#4343aa;
+    color: white;
+    font-weight: 600;  
+}
+div:hover.projetos{
+    background-color:#4343aa;
+    color: white;
+    font-weight: 600;  
+}
+img#foto-perfil{
+    border:2px solid black;
+    border-radius: 100%;
+}
+footer{
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+}
