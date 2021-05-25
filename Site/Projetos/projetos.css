@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body{ 
+    font-family: 'Cabin', sans-serif;
+    background-color:#4343aa;
+
+}
+
+main{
+    text-align: center;
+    background-color:white;
+    padding: 10px;
+    height: 800px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 75px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.514);
+}
+div{
+    
+    border-radius: 8px;
+    box-shadow: 3px 1px 7px rgb(0, 0, 0);
+    padding: 15px;
+    width: auto;
+    height: auto;
+    color: #000000;
+    display:inline-block;
+    background-color: rgb(255, 255, 255);
+}
+div.a{ 
+    font-family: 'Chelsea Market', cursive;
+    margin-right: 45px;
+    font-weight: bolder;
+ } 
+
+div:hover.a{
+    background-color:#4343aa;
+    color: white;
+    font-weight: 600;
+    
+}
+footer{
+    text-align: center;
+    color: white;
+}
