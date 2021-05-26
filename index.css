@@ -61,6 +61,7 @@ div:hover.projetos{
     font-weight: 600;  
 }
 img#foto-perfil{
+    width: 250px;
     border:2px solid black;
     border-radius: 100%;
 }
