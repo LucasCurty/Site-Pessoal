@@ -7,4 +7,4 @@
 
 <sub><strong>OBS:</strong><em>Como ainda estou estudando, pode ser que o site não esteja totalmente completo. Ainda estou buscando melhora-lo!</sub></em>
 
-<b>https://lucascurty.github.io/Site-Pessoal/index.html</b>
+<b>Confira <a href="https://lucascurty.github.io/Site-Pessoal/index.html">clicando aqui.</a></b>
