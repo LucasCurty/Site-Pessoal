@@ -9,3 +9,7 @@
 <sub><strong>OBS:</strong><em>Como ainda estou estudando, pode ser que o site não esteja totalmente completo. Ainda estou buscando melhora-lo!</sub></em>
 
 <b>Confira <a href="https://lucascurty.github.io/Site-Pessoal/index.html">clicando aqui.</a></b>
+
+## Tecnologias:
+- HTML
+- CSS
