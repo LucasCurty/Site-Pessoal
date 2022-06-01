@@ -13,3 +13,4 @@
 ## Tecnologias:
 - HTML
 - CSS
+### OBS: Acabei não terminando, mas porque não mostrar o começo ? 😂
